@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheenam98
+- 👋 Hi, I’m Sheenam
 - 👀 I’m interested in iPhone Application development.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on new technologies of iOS.
